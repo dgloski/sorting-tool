@@ -1,0 +1,65 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool with Java/*
+!/Sorting Tool with Java/task/
+/Sorting Tool with Java/task/*
+!/Sorting Tool with Java/task/src
+!/Sorting Tool with Java/task/out.txt
+
+# Project exclude paths
+/Topics/Comparable/Addresses/out/
+/Topics/Comparable/Addresses/out/production/classes/
+/Topics/Comparable/Implement Comparable/out/
+/Topics/Comparable/Implement Comparable/out/production/classes/
+/Topics/Comparable/Implement compareTo method/out/
+/Topics/Comparable/Implement compareTo method/out/production/classes/
+/Topics/Comparable/Leaderboard/out/
+/Topics/Comparable/Leaderboard/out/production/classes/
+/Topics/Comparable/Rewrite compareTo method/out/
+/Topics/Comparable/Rewrite compareTo method/out/production/classes/
+/Topics/Comparable/Rules/out/
+/Topics/Comparable/Rules/out/production/classes/
+/Topics/Comparable/Theory/out/
+/Topics/Comparable/Theory/out/production/classes/
+/Topics/Comparator/Comparator vs Comparable/out/
+/Topics/Comparator/Comparator vs Comparable/out/production/classes/
+/Topics/Comparator/Comparing numbers/out/
+/Topics/Comparator/Comparing numbers/out/production/classes/
+/Topics/Comparator/Method name/out/
+/Topics/Comparator/Method name/out/production/classes/
+/Topics/Comparator/Most valuable items/out/
+/Topics/Comparator/Most valuable items/out/production/classes/
+/Topics/Comparator/Multiple fields/out/
+/Topics/Comparator/Multiple fields/out/production/classes/
+/Topics/Comparator/Non-abstract methods/out/
+/Topics/Comparator/Non-abstract methods/out/production/classes/
+/Topics/Comparator/Sort users/out/
+/Topics/Comparator/Sort users/out/production/classes/
+/Topics/Comparator/Theory/out/
+/Topics/Comparator/Theory/out/production/classes/
+/Topics/Strategy/About the pattern/out/
+/Topics/Strategy/About the pattern/out/production/classes/
+/Topics/Strategy/Benefits/out/
+/Topics/Strategy/Benefits/out/production/classes/
+/Topics/Strategy/Context in strategy pattern/out/
+/Topics/Strategy/Context in strategy pattern/out/production/classes/
+/Topics/Strategy/Max and Min/out/
+/Topics/Strategy/Max and Min/out/production/classes/
+/Topics/Strategy/Pick your team/out/
+/Topics/Strategy/Pick your team/out/production/classes/
+/Topics/Strategy/Select one statement/out/
+/Topics/Strategy/Select one statement/out/production/classes/
+/Topics/Strategy/Statements/out/
+/Topics/Strategy/Statements/out/production/classes/
+/Topics/Strategy/Theory/out/
+/Topics/Strategy/Theory/out/production/classes/
